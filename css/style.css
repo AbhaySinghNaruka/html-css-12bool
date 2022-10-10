@@ -1,0 +1,11 @@
+/* .row {
+    padding: 15px;
+    background-color: rgb(55, 155, 255);
+    border: 1px solid white;
+} */
+
+[class*=col] {
+    background-color: rgb(52, 99, 255);
+    border: 1px solid white;
+    height: 40px;
+}
